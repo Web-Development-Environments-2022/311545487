@@ -1,9 +1,11 @@
+### Personal Information ###
+
 * Name: Yonatan Abeksis
 * ID: 311545487
 * Github username: abeksis93
 * URL: https://web-development-environments-2022.github.io/311545487/
 
-### Abuela Susana
+### Abuela Susana ###
 
 I decided to make a website for my grandmother who lives in Argentina.
 
