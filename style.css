@@ -90,17 +90,26 @@ img.photos{
 	height: 220px;
 	margin: 45px;
 	border: solid 0.5px rgb(143, 152, 143);	
-	transition: .2s;
-	transform: .2s;
+	transition: 0.75s ease-in-out;
+	transform: 0.75s ease-in-out;
 	object-fit: cover;
 	
+	visibility: initial;
+	position: initial;
+	display: initial;
 }
 
 img.photos:hover{
 	transform: scale(1.35);
-	width: 12%;
-	height: 12%;
-	transform: .5s;
+	width: initial + 35%;
+	height: initial + 35%;
+	transform: 0.75s ease-in-out;
+	position: initial;
+
+	overflow: hidden;
+	z-index: 1;
+	position: relative;
+
 	}
 
 body{
